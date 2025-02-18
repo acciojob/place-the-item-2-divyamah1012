@@ -1,7 +1,8 @@
 .holder{
 	display:flex;
-	align-items:center;
-	justify-items:center;
+	flex-wrap:wrap;
+	align-content:center;
+	justify-content:center;
 }
 .item{
 	width:50px;
